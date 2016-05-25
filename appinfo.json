@@ -1,0 +1,20 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "frimicc@gmail.com",
+    "enableMultiJS": true,
+    "longName": "Hello World",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "Hello World",
+    "uuid": "61b54e48-11ff-4113-a03c-1dfe50760dfd",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
